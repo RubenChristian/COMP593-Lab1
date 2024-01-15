@@ -1,2 +1,5 @@
 print("In the face of ambiguity, refuse the temptation to guess")
 print("Flat is better than nested")
+print("if the implementation is hard to explain, its a bad idea.")
+print("if the implementation is easy to explain, it may be a good idea")
+print("namespaces are one honking great idea -- lets do more of those")
